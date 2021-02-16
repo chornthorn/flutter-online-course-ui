@@ -1,0 +1,13 @@
+<svg id="Photoshop_Icon" data-name="Photoshop Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57" height="57" viewBox="0 0 57 57">
+    <defs>
+        <radialGradient id="radial-gradient" cx="0.329" cy="0.224" r="0.781" gradientTransform="translate(-0.01 0.01) scale(0.973 0.968)" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#34364e" stop-opacity="0.98"/>
+            <stop offset="1" stop-color="#0c0824"/>
+        </radialGradient>
+    </defs>
+    <rect id="Background_icon" data-name="Background icon" width="57" height="57" rx="25" fill="#eaf9fe"/>
+    <g id="Photoshop_icon-2" data-name="Photoshop icon" transform="translate(17.301 12.688)">
+        <path id="Path_162" data-name="Path 162" d="M1,6.241H22.89v21.3H1Z" fill="url(#radial-gradient)"/>
+        <path id="Path_163" data-name="Path 163" d="M1,6.241H22.89v21.3H1ZM0,28.534H23.885V5.246H0ZM16.1,14.8c-.786,0-1.055.4-1.055.726,0,.358.179.607,1.234,1.154,1.562.756,2.05,1.483,2.05,2.548,0,1.592-1.214,2.448-2.856,2.448a4.33,4.33,0,0,1-2.04-.428c-.07-.03-.08-.08-.08-.159V19.627c0-.1.05-.129.119-.08a3.694,3.694,0,0,0,2,.587c.786,0,1.115-.328,1.115-.776,0-.358-.229-.677-1.234-1.194-1.413-.677-2-1.363-2-2.508A2.446,2.446,0,0,1,16.1,13.307a4.576,4.576,0,0,1,1.781.279.22.22,0,0,1,.1.2v1.363c0,.08-.05.129-.149.1A3.362,3.362,0,0,0,16.1,14.8ZM7.544,15.984c.229.02.408.02.806.02,1.164,0,2.259-.408,2.259-1.99,0-1.264-.786-1.9-2.11-1.9-.4,0-.776.02-.955.03ZM5.772,10.7c0-.07.139-.119.219-.119.637-.03,1.582-.05,2.568-.05,2.757,0,3.831,1.513,3.831,3.443,0,2.528-1.831,3.613-4.08,3.613-.378,0-.508-.02-.776-.02v3.822c0,.08-.03.119-.119.119H5.892c-.08,0-.119-.03-.119-.119V10.7Z" fill="#31c5f0"/>
+    </g>
+</svg>

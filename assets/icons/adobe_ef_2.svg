@@ -1,0 +1,13 @@
+<svg id="After_Effects_Icon" data-name="After Effects Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57" height="57" viewBox="0 0 57 57">
+    <defs>
+        <radialGradient id="radial-gradient" cx="0.329" cy="0.224" r="0.781" gradientTransform="translate(-0.01 0.01) scale(0.973 0.968)" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#442f55" stop-opacity="0.98"/>
+            <stop offset="1" stop-color="#12002c"/>
+        </radialGradient>
+    </defs>
+    <rect id="Background_icon" data-name="Background icon" width="57" height="57" rx="25" fill="#fbf5ff"/>
+    <g id="After_Effects" data-name="After Effects" transform="translate(16.185 16.846)">
+        <path id="Path_17" data-name="Path 17" d="M24.8,155.549H48.744v23.288H24.8Z" transform="translate(-23.715 -154.461)" fill="url(#radial-gradient)"/>
+        <path id="Path_18" data-name="Path 18" d="M1.088,131.834H25.029v23.288H1.088ZM0,156.21H26.117V130.746H0Zm18.478-13.189a4.815,4.815,0,0,0,.805-.022c0-.076.022-.131.022-.185a1.514,1.514,0,0,0-1.415-1.676c-1.045,0-1.491.914-1.6,1.883h2.187Zm-2.209,1.491a2.185,2.185,0,0,0,2.372,2.459,4.259,4.259,0,0,0,1.774-.337c.076-.033.131-.022.131.076v1.36a.23.23,0,0,1-.109.218,4.935,4.935,0,0,1-2.187.413c-2.873,0-3.95-2.122-3.95-4.483,0-2.568,1.328-4.668,3.667-4.668,2.372,0,3.2,1.991,3.2,3.613a5.5,5.5,0,0,1-.087,1.154.162.162,0,0,1-.141.141,15.752,15.752,0,0,1-1.817.076H16.269Zm-5.833-1.11c-.3-1.208-1.045-3.841-1.317-5.115H9.1c-.228,1.273-.827,3.428-1.273,5.115Zm-3.058,1.763-.86,3.254c-.022.087-.054.12-.163.12h-1.6c-.109,0-.131-.033-.109-.163l3.09-10.806a3.335,3.335,0,0,0,.109-.892c0-.076.033-.109.087-.109h2.285c.076,0,.109.022.131.109l3.46,11.72c.022.087,0,.141-.087.141h-1.8a.147.147,0,0,1-.163-.109l-.892-3.265H7.378Z" transform="translate(0 -130.746)" fill="#d8a1ff"/>
+    </g>
+</svg>

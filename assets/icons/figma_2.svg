@@ -1,0 +1,10 @@
+<svg id="Figma_Icon" data-name="Figma Icon" xmlns="http://www.w3.org/2000/svg" width="57" height="57" viewBox="0 0 57 57">
+    <rect id="Background_Icon" data-name="Background Icon" width="57" height="57" rx="25" fill="#fff1ef"/>
+    <g id="Figma_Icon-2" data-name="Figma Icon" transform="translate(18.374 13.891)">
+        <path id="path0_fill" d="M5.242,210.483a5.244,5.244,0,0,0,5.242-5.242V200H5.242a5.242,5.242,0,1,0,0,10.483Z" transform="translate(0 -179.033)" fill="#0acf83"/>
+        <path id="path1_fill" d="M0,105.242A5.244,5.244,0,0,1,5.242,100h5.242v10.483H5.242A5.244,5.244,0,0,1,0,105.242Z" transform="translate(0 -89.517)" fill="#a259ff"/>
+        <path id="path1_fill_1_" d="M0,5.242A5.244,5.244,0,0,1,5.242,0h5.242V10.483H5.242A5.244,5.244,0,0,1,0,5.242Z" fill="#f24e1e"/>
+        <path id="path2_fill" d="M100,0h5.242a5.242,5.242,0,1,1,0,10.483H100Z" transform="translate(-89.517)" fill="#ff7262"/>
+        <path id="path3_fill" d="M110.483,105.242A5.242,5.242,0,1,1,105.242,100,5.244,5.244,0,0,1,110.483,105.242Z" transform="translate(-89.517 -89.517)" fill="#1abcfe"/>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="Sketch_Icon" data-name="Sketch Icon" xmlns="http://www.w3.org/2000/svg" width="57" height="57" viewBox="0 0 57 57">
+    <rect id="Background_icon" data-name="Background icon" width="57" height="57" rx="25" fill="#fff5e5"/>
+    <g id="Sketch_icon-2" data-name="Sketch icon" transform="translate(13.599 15.46)">
+        <path id="Path_5" data-name="Path 5" d="M96,26.666V18.649l8.908-1.673,8.908,1.673v8.017Z" transform="translate(-90.655 -16.976)" fill="#ffd54f"/>
+        <path id="Path_6" data-name="Path 6" d="M96,26.666l8.908-9.69,8.908,9.69Z" transform="translate(-90.655 -16.976)" fill="#ffecb3"/>
+        <path id="Path_7" data-name="Path 7" d="M0,191.024l14.253,16.925,14.253-16.925Z" transform="translate(0 -181.334)" fill="#ffa000"/>
+        <path id="Path_8" data-name="Path 8" d="M96,191.024l8.908,16.925,8.908-16.925Z" transform="translate(-90.655 -181.334)" fill="#ffca28"/>
+        <g id="Group_6" data-name="Group 6" transform="translate(0 1.673)">
+            <path id="Path_9" data-name="Path 9" d="M0,55.041l5.345-8.017v8.017Z" transform="translate(0 -47.024)" fill="#ffc107"/>
+            <path id="Path_10" data-name="Path 10" d="M416,47.024v8.017h5.345Z" transform="translate(-392.84 -47.024)" fill="#ffc107"/>
+        </g>
+    </g>
+</svg>

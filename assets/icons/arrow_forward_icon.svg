@@ -1,0 +1,8 @@
+<svg id="Details_icon" data-name="Details icon" xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 43 43">
+    <path id="Path_105" data-name="Path 105" d="M21.5,0A21.5,21.5,0,1,1,0,21.5,21.5,21.5,0,0,1,21.5,0Z" fill="#fef3f3"/>
+    <g id="Arrow" transform="translate(27.748 27.106) rotate(180)">
+        <g id="Group_7" data-name="Group 7" transform="translate(0 0)">
+            <path id="Path_21" data-name="Path 21" d="M12.737,4.546l.021,0H3.727L6.566,1.706a.746.746,0,0,0,0-1.048L6.125.216a.739.739,0,0,0-1.043,0L.215,5.081a.744.744,0,0,0,0,1.047l4.867,4.867a.74.74,0,0,0,1.043,0l.442-.442a.731.731,0,0,0,.215-.521.709.709,0,0,0-.215-.512L3.7,6.658h9.052A.765.765,0,0,0,13.5,5.9V5.276A.75.75,0,0,0,12.737,4.546Z" fill="#f18c8e"/>
+        </g>
+    </g>
+</svg>
